@@ -1,15 +1,15 @@
 body {
-background: #ff6347;
+background: "LightGray";
 font-family: "helvetica", arial, sans-serif;
 }
 h1 {
-color: black;
+color: "black";
 text-align: center; 
 }
 .assign {
 display: flex;
 padding: 10px;
-margin: 10px; background: green;
+margin: 10px; background: "green";
 }
 .assign img {
 width: 200px;
